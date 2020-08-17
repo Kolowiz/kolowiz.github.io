@@ -1,0 +1,6 @@
+.main-header:before {
+	background: rgba(0, 0, 0, 0.6);
+}
+.background:before {
+	background: rgba(0, 0, 0, 0.6);
+}
